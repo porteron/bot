@@ -1,6 +1,6 @@
 
 module.exports = {
-	 entry: ["./bot.js", "./ticker.js","./symbols"],
+	 entry: ["./bot.js", "./graph.js","./symbols"],
 	  output: {
 		     filename: "bundle.js"
       },

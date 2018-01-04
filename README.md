@@ -1,6 +1,9 @@
 # bot
-### Trading Bot using CCXT
+### Graphs, data and, attempt Trading Bot using CCXT
 
 ### -- O - O --
-###______0_____
-###____________
+_________________
+
+###test
+cd /src 
+node symbols.js && node graph.js && node bot.js 
