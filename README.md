@@ -7,4 +7,4 @@ _________________
 ### test
 
 CMD
-``node symbols.js && node graph.js && node bot.js ``
+``node symbols.js && node graph.js && node bot.js && node binance.js``
