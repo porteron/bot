@@ -4,6 +4,7 @@
 ### -- O - O --
 _________________
 
-###test
-cd /src 
-node symbols.js && node graph.js && node bot.js 
+### test
+
+CMD
+    node symbols.js && node graph.js && node bot.js 
