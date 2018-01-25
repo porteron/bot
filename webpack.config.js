@@ -1,10 +1,10 @@
 
 module.exports = {
 	 entry: ["./bot.js", "./graph.js","./symbols","./binance.js"],
-	  output: {
+	  output:{
 		     filename: "bundle.js"
       },
-       resolve: {
+       resolve:{
 	       extensions: ['.js', '.es6']
        }
 }
