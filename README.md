@@ -1,7 +1,6 @@
 # bot
 ### Graphs, data, and attempt trading Bot using CCXT api abstractions
 
-_________________
 
 Majority of useful code is in `symbols.js`, `graph.js`, & `binance.js`
 
