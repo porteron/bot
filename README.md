@@ -8,10 +8,12 @@ Current state of the project allows ability to read from exchanges, bootstrapped
 
 You'll probably need an API key from the exchange you want to operate with. I recommend Binance for ease of use.
 
-### test
 
-CMD
+### TERMINAL GRAPHS ETH/BTC PAIRS
 
-`node symbols.js && node graph.js && node bot.js && node binance.js`
+
+```
+node symbols.js && node graph.js && node bot.js && node binance.js
+```
 
 
