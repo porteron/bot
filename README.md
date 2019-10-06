@@ -1,4 +1,4 @@
-# Cryptocurrency Bot Data 
+# Crypto Bot & Data CCXT
 
 ### Graphs, data, and attempt trading Bot using CCXT api abstractions
 
