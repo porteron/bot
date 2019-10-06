@@ -9,6 +9,10 @@ Current state of the project allows ability to read from exchanges, bootstrapped
 
 You'll probably need an API key from the exchange you want to operate with. I recommend Binance for ease of use.
 
+#### Install Dependencies
+```
+npm install
+```
 
 #### Display graphs and data in the terminal for ETH/BTC pairs
 ##### Run the following commands 
