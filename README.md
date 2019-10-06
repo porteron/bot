@@ -11,9 +11,17 @@ You'll probably need an API key from the exchange you want to operate with. I re
 
 
 #### Display graphs and data in the terminal for ETH/BTC pairs
-##### Run the following command 
-```
-node symbols.js && node graph.js && node bot.js && node binance.js
+##### Run the following commands 
+
+```bash
+# Run symbols script
+node symbols.js
+# Run graph script
+node graph.js
+# Run bot script
+node bot.js
+# Run binance script
+node binance.js
 ```
 
 
