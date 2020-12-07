@@ -20,14 +20,8 @@ npm install
 ##### Run the following commands 
 
 ```bash
-# Run symbols script
-node symbols.js
 # Run graph script
 node graph.js
-# Run bot script
-node bot.js
-# Run binance script
-node binance.js
 ```
 
 

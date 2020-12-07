@@ -20,6 +20,7 @@
   "dependencies": {
     "as-table": "^1.0.31",
     "asciichart": "^1.5.7",
+    "ccxt": "^1.38.91",
     "ololog": "^1.1.83",
     "webpack-dev-server": "^2.9.7"
   }
